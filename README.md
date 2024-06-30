@@ -1,0 +1,1 @@
+Hello my name is Hussein S Shaban, this project is a key part of my portfolio. I have worked diligently to bring it to completion, using HTML, CSS, JavaScript, and Canva to achieve the desired results. I am thankful for the opportunity to be among the competitors.
